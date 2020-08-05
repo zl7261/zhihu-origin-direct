@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         去除知乎安全中心。
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  屏蔽知乎安全中心，直接跳转链接地址。
 // @author       zl7261
 // @match        https://*.zhihu.com/*
